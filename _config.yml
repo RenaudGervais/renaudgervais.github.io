@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Renaud Gervais
 locale:           en_US
 url:
 
@@ -41,26 +41,26 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  name: Renaud Gervais
+  avatar: bio-photo-2.jpg
+  bio: "Researcher, designer, technologist. I strive for a more positive impact of technology in our lives."
+  email: renaud.gervais@gmail.com
   disqus-shortname:
-  twitter: #username
+  twitter: RenaudGervais #username
   facebook: #username
   google:
-    plus: #username
+    plus: RenaudGervais-1 #username
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: RenaudGervais #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: renaud-gervais-3387b627 #username
   xing: #username
   instagram: #username
-  lastfm: #username
+  lastfm: NonRealResult #username
   tumblr: #username
   pinterest: #username
   foursquare: #username
