@@ -7,7 +7,7 @@ image:
   feature: cursar-teaser-drawing.png
   credit: 
   creditlink: 
-  thumb:
+  thumb: cursar-thumb.jpg
   teaser: cursar-header.jpg
 date: 2015-06-08 13:03:11 +0200
 comments: 
