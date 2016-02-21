@@ -43,11 +43,9 @@
       {% endif %}
       <article>
         {% if post.link %}
-          <h2><small>{{ post.date | date_to_string }}: </small></h2>
-          <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
+          <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }} <small>({{ post.date | date_to_string }})</small></a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
         {% else %}
-          <h2><small>{{ post.date | date_to_string }}: </small></h2>
-          <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+          <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }} <small>({{ post.date | date_to_string }})</small></a></h2>
           <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
         {% endif %}
         {% if post.image.teaser %}
