@@ -2,6 +2,7 @@
 layout: post
 title: "Teegi: Tangible EEG Interface"
 modified: 2014-07-17 16:13:52 +0200
+permalink: /projects/teegi/
 tags: [EEG, Tangible UI, Spatial Augmented Reality]
 image:
   feature: teegi_header_zoom_out.jpg

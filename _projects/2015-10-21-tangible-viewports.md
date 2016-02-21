@@ -2,6 +2,7 @@
 layout: post
 title: "Tangible Viewports"
 modified:
+permalink: /projects/tangible-viewport/
 categories: 
 excerpt:
 tags: []

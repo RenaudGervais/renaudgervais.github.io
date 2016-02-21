@@ -2,6 +2,7 @@
 layout: post
 title: "CurSAR: Pointing in Spatial Augmented Reality from 2D Pointing Devices"
 modified: 2015-06-08 13:03:11 +0200
+permalink: /projects/cursar/
 tags: [interaction, spatial augmented reality, mouse, pointing]
 image:
   feature: cursar-teaser-drawing.png
