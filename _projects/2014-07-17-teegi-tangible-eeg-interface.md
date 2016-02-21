@@ -9,6 +9,7 @@ image:
   creditlink: 
   thumb: 
   teaser: teegi_header.jpg
+date: 2014-07-17 16:13:52 +0200
 comments: 
 share: 
 ---
