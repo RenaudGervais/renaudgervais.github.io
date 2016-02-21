@@ -10,4 +10,4 @@ image:
 date: 2016-02-03
 ---
 
-[Jérémy](http://jfrey.info) will present a poster we submitted to the [CHI 2016 Workshop on Computing and Mental Health](http://chi2016mentalhealth.media.mit.edu/) in May on the use of tangible interaction for introspection purposes.
+Our poster on the use of tangible interaction purposes have been accepted to the [CHI 2016 Workshop on Computing and Mental Health](http://chi2016mentalhealth.media.mit.edu/) and will be presented by [Jérémy](http://jfrey.info) in May.
