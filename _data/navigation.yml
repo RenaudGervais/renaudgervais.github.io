@@ -1,7 +1,10 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: News
+  url: /news/
 
 - title: Projects
   url: /projects/
+
+- title: About
+  url: /about/
