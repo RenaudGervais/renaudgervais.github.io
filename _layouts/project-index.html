@@ -45,16 +45,20 @@
         {% if project.link %}
           <h2 class="link-post"><a href="{{ site.url }}{{ project.url }}" title="{{ project.title }}">{{ projecct.title }}</a> <a href="{{ project.link }}" target="_blank" title="{{ project.title }}"><i class="fa fa-link"></i></a></h2>
         {% else %}
+          {% if project.image.thumb %}
+          <img class="project-teaser" src="{{ site.url }}/images/{{ project.image.thumb }}">
+          {% endif %}
           <h2><a href="{{ site.url }}{{ project.url }}" title="{{ project.title }}">{{ project.title }}</a></h2>
-          <p>{{ project.excerpt | strip_html | truncate: 160 }}</p>
+          <p>{{ project.excerpt | strip_html | truncate: 300 }}</p>
         {% endif %}
-        {% if project.image.teaser %}
+        {% unless project.image.thumb and project.image.teaser != '' %}
         <div class="image-wrap">
           <a href="{{ site.url }}{{ project.url }}">
             <img src="{{ site.url }}/images/{{ project.image.teaser }}">
           </a>
         </div>
-        {% endif %}
+        {% endunless %}
+        <br style="clear: both;" /> <!-- this is to prevent successive items to overlap each others -->
       </article>
     {% endfor %}
   </div><!-- /#index -->
