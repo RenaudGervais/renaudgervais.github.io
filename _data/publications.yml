@@ -69,7 +69,7 @@
   project: "cursar"
 
 - id: Gervais2014
-  type: paper-conference
+  type: poster
   author:
   - family: Gervais
     given: Renaud
@@ -113,3 +113,20 @@
   pdf-link: Gervais2016.pdf
   project: "tports"
 
+- id: Roo2016
+  type: poster
+  author:
+  - family: Sol Roo
+    given: Joan
+  - family: Gervais
+    given: Renaud
+  - family: Hachet
+    given: Martin
+  year: 2016
+  title: 'Inner Garden: an Augmented Sandbox Designed for Self-Reflection'
+  container-title: Proceedings of the 10th International Conference
+    on Tangible, Embedded and Embodied Interaction WiP
+  abbreviation: TEI '16
+  URL: https://hal.archives-ouvertes.fr/hal-01237378
+  pdf-link: Roo2016.pdf
+  project: "inner-garden"
