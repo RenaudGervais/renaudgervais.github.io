@@ -10,3 +10,5 @@ image:
   credit: Renaud Gervais
 ---
 
+# Publications
+{% include _publications.html %}
