@@ -21,4 +21,4 @@ CurSAR is a project investigating the use of 2D input devices to point at augmen
 
 
 ### Related publications
-- <a href="https://hal.archives-ouvertes.fr/hal-01153647/document"><img src="/images/pdf.png"/></a>
+{% include _publications.html project="cursar" %}
