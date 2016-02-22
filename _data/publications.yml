@@ -27,6 +27,7 @@
   author:
   - family: Gervais
     given: Renaud
+    me: true
   - family: Frey
     given: Jérémy
   - family: Gay
@@ -53,6 +54,7 @@
   author:
   - family: Gervais
     given: Renaud
+    me: true
   - family: Frey
     given: Jérémy
   - family: Hachet
@@ -73,6 +75,7 @@
   author:
   - family: Gervais
     given: Renaud
+    me: true
   - family: Laviole
     given: Jérémy
   - family: Marzo
@@ -95,6 +98,7 @@
   author:
   - family: Gervais
     given: Renaud
+    me: true
   - family: Sol Roo
     given: Joan
   - family: Hachet
@@ -120,6 +124,7 @@
     given: Joan
   - family: Gervais
     given: Renaud
+    me: true
   - family: Hachet
     given: Martin
   year: 2016
