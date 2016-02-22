@@ -1,0 +1,115 @@
+- id: Frey2014
+  type: paper-conference
+  author:
+  - family: Frey
+    given: Jérémy
+  - family: Gervais
+    given: Renaud
+    me: true
+  - family: Fleck
+    given: Stéphanie
+  - family: Lotte
+    given: Fabien
+  - family: Hachet
+    given: Martin
+  year: 2014
+  title: 'Teegi: Tangible EEG Interface'
+  container-title: Proceedings of the 27th annual ACM symposium on user interface
+    software and technology
+  abbreviation: UIST '14
+  URL: https://hal.archives-ouvertes.fr/hal-01025621v1
+  pdf-link: Frey2014.pdf
+  note: Co-first authorship
+  project: "teegi"
+
+- id: Gervais2016a
+  type: paper-conference
+  author:
+  - family: Gervais
+    given: Renaud
+  - family: Frey
+    given: Jérémy
+  - family: Gay
+    given: Alexis
+  - family: Lotte
+    given: Fabien
+  - family: Hachet
+    given: Martin
+  year: 2016
+  title: 'TOBE: Tangible Out-of-Body Experience'
+  container-title: Proceedings of the 10th International Conference
+    on Tangible, Embedded and Embodied Interaction
+  abbreviation: TEI '16
+  publisher-place: Eindhoven, Netherlands
+  keyword: Physiological Computing ; Tangible Interaction ; Spatial Augmented Reality
+    ; EEG ; ECG ; EDA
+  URL: https://hal.archives-ouvertes.fr/hal-01215499
+  pdf-link: Gervais2016a.pdf
+  note: Co-first authorship
+  project: "tobe"
+
+- id: Gervais2015
+  type: paper-conference
+  author:
+  - family: Gervais
+    given: Renaud
+  - family: Frey
+    given: Jérémy
+  - family: Hachet
+    given: Martin
+  year: 2015
+  title: Pointing in spatial augmented reality from 2D pointing devices
+  container-title: Human-Computer Interaction
+  abbreviation: INTERACT '15
+  publisher-place: Bamberg, Germany
+  page: '8'
+  keyword: Spatial Augmented Reality ; Pointing devices
+  URL: https://hal.archives-ouvertes.fr/hal-01153647
+  pdf-link: Gervais2015.pdf
+  project: "cursar"
+
+- id: Gervais2014
+  type: paper-conference
+  author:
+  - family: Gervais
+    given: Renaud
+  - family: Laviole
+    given: Jérémy
+  - family: Marzo
+    given: Asier
+  year: 2014
+  title: 'The good, the bad and the hacked: Creative coding on objects'
+  title-short: The good, the bad and the hacked
+  container-title: Proceedings of the 8th International Conference on Tangible, Embedded
+    and Embodied Interaction WiP poster
+  collection-title: TEI ’14
+  abbreviation: TEI '14
+  publisher: ACM
+  pdf-link: Gervais2014.pdf
+  project: "ccoo"
+  URL: https://hal.archives-ouvertes.fr/hal-01096299v1
+
+
+- id: Gervais2016
+  type: paper-conference
+  author:
+  - family: Gervais
+    given: Renaud
+  - family: Sol Roo
+    given: Joan
+  - family: Hachet
+    given: Martin
+  year: 2016
+  title: 'Tangible Viewports: Getting Out of Flatland in Desktop
+    Environments'
+  container-title: Proceedings of the 10th International Conference
+    on Tangible, Embedded and Embodied Interaction
+  collection-title: TEI ’16
+  abbreviation: TEI '16
+  publisher: ACM
+  publisher-place: Eindhoven, Netherlands
+  keyword: Tangible Interaction ; Spatial Augmented Reality
+  URL: https://hal.archives-ouvertes.fr/hal-01215502
+  pdf-link: Gervais2016.pdf
+  project: "tports"
+
