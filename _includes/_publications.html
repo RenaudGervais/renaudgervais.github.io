@@ -7,11 +7,20 @@
   {% assign data = site.data.publications | sort: 'year' %}
 {% endif %}
 
+  {% comment %} most recent publication first {% endcomment %}
+  {% assign first-pass = true %}
+  {% for pub in data reversed %}
+    {% capture year %}{{ pub.year }}{% endcapture %}
+      {% if year != written_year %}
+{% if first-pass == false %}</ul>{% endif %}
+<h3>{{ year }}</h3>
 <ul class="publications">
+        {% capture written_year %}{{ year }}{% endcapture %}
+        {% assign first-pass = false %}
+      {% endif %}
 
   
-  {% comment %} most recent publication first {% endcomment %}
-  {% for pub in data reversed %}
+
     
     {% capture authors_list %}
     {% for aut in pub.author %}
