@@ -14,6 +14,8 @@ date: 2016-02-23T13:52:02+01:00
 
 <iframe src="https://player.vimeo.com/video/147174071" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+Inner garden is a project that was motivated by our desire to create a playful and mindful medium. Something that would be closer to a toy (open-ended, no rules) than a game and that would encourage people to take a moment to themselves.
+
 <figure class="half">
     <a href="/images/inner-garden-emotiv.png"><img src="/images/inner-garden-emotiv.png"></a>
     <a href="/images/inner-garden-hands-on.jpg"><img src="/images/inner-garden-hands-on.jpg"></a>

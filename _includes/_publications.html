@@ -10,6 +10,7 @@
   {% comment %} most recent publication first {% endcomment %}
   {% assign first-pass = true %}
   {% for pub in data reversed %}
+  {% unless include.project %}
     {% capture year %}{{ pub.year }}{% endcapture %}
       {% if year != written_year %}
 {% if first-pass == false %}</ul>{% endif %}
@@ -18,6 +19,7 @@
         {% capture written_year %}{{ year }}{% endcapture %}
         {% assign first-pass = false %}
       {% endif %}
+  {% endunless %}
 
   
 
@@ -42,4 +44,4 @@
   <li>{{ authors_list }} ({{ pub.year }}). {% if pub.URL %}<a href="{{ pub.URL }}">{% endif %}{{ pub.title }}{% if pub.URL %}</a>{% endif %}. <em>In {{ pub.container-title}} ({{ pub.abbreviation }})</em>.{% if pub.award %} <img class="img-inline" src="{{ site.url }}/images/award.png" alt="award_mage"> <strong>{{ pub.award }}.</strong> {% endif %}{% if pub.pdf-link%} <a href="{{ site.url }}/papers/{{ pub.pdf-link }}"><img class="img-inline" src="{{ site.url }}/images/pdf.png" alt="pdf_link_image"></a>{% endif %}{% if pub.note %}<br><sup>*{{ pub.note }}</sup>{% endif %}</li>
     
   {% endfor %}
-</ul>
+{% unless include.project %}</ul>{% endunless %}
