@@ -10,7 +10,7 @@ image:
 date: 2016-03-01T08:28:14+01:00
 ---
 
-We have just returned from a great edition of [TEI](http://tei-conf.org/16/), the conference on Tangible, Embedded and Embodied Interaction, where we got the opportunity to present our work on [Tangible Viewports](/projects/tangible-viewports/), [Tobe](/projects/tobe/) and [Inner Garden](/projects/inner-garden/). The last two projects have also been showcased during the demo night.
+[Jérémy](http://jfrey.info/), [Sol](http://people.bordeaux.inria.fr/jroo/) and I have just returned from a great edition of [TEI](http://tei-conf.org/16/), the conference on Tangible, Embedded and Embodied Interaction, where we got the opportunity to present our work on [Tangible Viewports](/projects/tangible-viewports/), [Tobe](/projects/tobe/) and [Inner Garden](/projects/inner-garden/). The last two projects have also been showcased during the demo night.
 
 <figure class="half">
     <a href="/images/tobe-presentation-tei2016-crop.jpg"><img src="/images/tobe-presentation-tei2016-crop.jpg"></a>
