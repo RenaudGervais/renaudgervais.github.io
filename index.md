@@ -10,7 +10,7 @@ share: false
 ---
 
 # Welcome!
-My name is **Renaud Gervais** and I am a researcher in Human-Computer Interaction currently working at [Inria](http://www.inria.fr) Bordeaux, France in the [Potioc team](http://team.inria.fr/potioc/). My main focus is investigating how technology can be used to have a positive impact in our lives, by trying to create mindful, playful and reflective experiences.
+I am a researcher in Human-Computer Interaction currently working at [Inria](http://www.inria.fr) Bordeaux, France in the [Potioc team](http://team.inria.fr/potioc/). My main focus is investigating how technology can be used to have a positive impact in our lives, by trying to create mindful, playful and reflective experiences.
 
 During my PhD, I used tools from **tangible interaction**, **spatial augmented reality** and **physiological computing** to create tools like [Teegi](/teegi-tangible-eeg-interface/) and [Tobe](/tobe/), hoping to create artifacts that foster introspection, empathy and *well-being*.
 
