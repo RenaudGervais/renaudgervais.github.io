@@ -154,3 +154,22 @@
   abbreviation: CHI '16 Workshop
   pdf-link: Gervais2016b.pdf
   project: "inner-garden"
+
+- id: Roo2017
+  type: paper-conference
+  author:
+  - family: Sol Roo
+    given: Joan
+  - family: Gervais
+    given: Renaud
+    me: true
+  - family: Frey
+    given: Jérémy
+  - family: Hachet
+    given: Martin
+  year: 2017
+  title: "Inner Garden: Connecting Inner States to a Mixed Reality Sandbox for Mindfulness"
+  container-title: Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems
+  abbreviation: CHI '17
+  project: "inner-garden"
+  note: Accepted
