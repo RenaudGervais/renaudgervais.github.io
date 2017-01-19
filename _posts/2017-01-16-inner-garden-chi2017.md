@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Inner Garden has been accepted to CHI 2017
+title: Inner Garden has been accepted @ CHI 2017
 modified:
 categories: 
-excerpt: Inner Garden, our augmented sandbox designed to support mindfulness activities has been accepted to CHI 2017! Sol will have the chance to present the system and the feedback we got from meditation experts next May. 
+excerpt: Inner Garden, our augmented sandbox designed to support mindfulness activities has been accepted at CHI 2017! Sol will have the chance to present the system and the feedback we got from meditation experts next May. 
 tags: []
 image:
   feature: inner-garden-banner-2.jpg
